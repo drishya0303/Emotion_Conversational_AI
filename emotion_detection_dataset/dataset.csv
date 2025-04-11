@@ -1,0 +1,93 @@
+Text,Emotion
+"This is the best day ever!",joy
+"I can't stop smiling!",joy
+"Everything is falling into place perfectly!",joy
+"I love spending time with my family!",joy
+"I'm so excited about my promotion!",joy
+"Life feels amazing right now!",joy
+"I’m proud of what I’ve accomplished!",joy
+"The view from here is breathtaking!",joy
+"I feel like I’m on top of the world!",joy
+"I love celebrating little wins!",joy
+"The sunshine just makes everything better!",joy
+"I’m looking forward to this adventure!",joy
+"This concert is incredible!",joy
+"I’m grateful for all the good things in my life!",joy
+"I can’t wait to tell everyone the good news!",joy
+"I'm filled with so much hope!",joy
+"I adore my new puppy!",joy
+"The flowers are blooming beautifully today!",joy
+"What a wonderful surprise!",joy
+"I feel blessed to be surrounded by love!",joy
+"I miss the good old days.",sadness
+"I feel so lost right now.",sadness
+"Why does everything have to be so hard?",sadness
+"I wish things were different.",sadness
+"My heart feels heavy today.",sadness
+"I don’t know how to fix this.",sadness
+"It’s tough not having anyone to talk to.",sadness
+"Every day feels the same.",sadness
+"I feel like I’m not good enough.",sadness
+"The silence is deafening.",sadness
+"It hurts knowing I failed.",sadness
+"I’ve been crying all day.",sadness
+"I just want someone to understand me.",sadness
+"I miss my friends so much.",sadness
+"The world feels gray to me right now.",sadness
+"I feel broken inside.",sadness
+"I keep replaying that moment in my head.",sadness
+"I don’t think I’m strong enough for this.",sadness
+"The loneliness is unbearable.",sadness
+"Why does everything feel so distant?",sadness
+"Why can’t people just do their job?",anger
+"This situation makes me furious!",anger
+"I’ve had enough of this nonsense!",anger
+"People just don’t listen!",anger
+"I can’t believe this is happening again!",anger
+"Why does no one care about my time?",anger
+"It’s infuriating to deal with incompetence!",anger
+"I’m tired of being taken for granted!",anger
+"They crossed the line this time!",anger
+"I’m boiling over with frustration!",anger
+"Why do people have to be so rude?",anger
+"I hate being ignored!",anger
+"This is completely unacceptable!",anger
+"Why can’t things ever go smoothly?",anger
+"Stop blaming me for everything!",anger
+"I’m fed up with these excuses!",anger
+"It’s so frustrating when people break their promises!",anger
+"I feel like screaming right now!",anger
+"I’m livid about what just happened!",anger
+"I can’t stand how unfair this is!",anger
+"I went grocery shopping earlier.",neutral
+"I spent some time reading today.",neutral
+"The weather seems fine.",neutral
+"I’m planning my schedule for the week.",neutral
+"The meeting went as expected.",neutral
+"I need to clean the house tomorrow.",neutral
+"Traffic wasn’t too bad today.",neutral
+"I made a simple dinner.",neutral
+"I finished watching a TV series.",neutral
+"I’m organizing my workspace.",neutral
+"The store had everything I needed.",neutral
+"I’m reviewing my budget for the month.",neutral
+"My commute was uneventful.",neutral
+"I’m catching up on emails.",neutral
+"I had a normal day at work.",neutral
+"I picked up some books from the library.",neutral
+"I’m planning to go for a walk later.",neutral
+"I completed a small task today.",neutral
+"The dishes are done.",neutral
+"I’m writing a list of things to do tomorrow.",neutral
+"I’m happy for my new job but sad about leaving my team.",mixed
+"I feel frustrated but hopeful things will improve.",mixed
+"I’m proud of my accomplishment but exhausted from the effort.",mixed
+"It’s exciting to start fresh but scary to let go of the past.",mixed
+"I feel sad about the changes but hopeful for what’s to come.",mixed
+"I’m grateful for the opportunity but nervous about the challenge.",mixed
+"It’s great to see progress but frustrating how slow it is.",mixed
+"I’m angry about the situation but optimistic it can be fixed.",mixed
+"I’m excited for my trip but overwhelmed by the planning.",mixed
+"I feel happy about reconnecting but regret the time we lost.",mixed
+"I feel like something terrible is about to happen.",fear
+"Wow, I didn’t expect to see you here!",surprise
